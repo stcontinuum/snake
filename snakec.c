@@ -138,7 +138,7 @@ void initializeGame(){
   int map[20][20];
   generateSnake(map);
   generateFood();
-  //generateObstacles()
+  ///generateObstacles()
 }
 
 int generateSnake(int map[]){
